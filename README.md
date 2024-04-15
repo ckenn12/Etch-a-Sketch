@@ -1,2 +1,1 @@
-# Etch-a-Sketch
-for-fun project
+A for-fun pseudo Etch-a-Sketch project with HTML, CSS, and JS.
